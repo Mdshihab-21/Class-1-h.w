@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Class-1,H/W</title>
+	</head>
+	<body>
+		<marquee>HOME WORK</marquee>
+		
+		<h1 align="center">Hellow, My name is shihab</h1>
+		<h2 align="center">I am a student</h2>
+		<hr width="40%" align="center">
+		
+		<p><mark><u><i><b>Good studying skills</b></i><em><strong> can increase your confidence, competence, and self esteem.</strong></em></u> They can also reduce anxiety about tests and deadlines Good study skills can improve your ability to 
+		learn and retain knowledge. Students who use effective study skills can improve your ability to learn and retain knowledge.</mark><br>Students who use effective study skills may feel their work and effort is more worthwhile</p>
+		
+		<p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup>
+		
+		<p>H<sub>2</sub>O</p>
+		
+		<blockquote>Your time is limited, so don't waste it living someone else's life. Don't be traped by dogma- which is living with the results of other people's thinking.</blockquote>
+		<q>Get busy living or get busy dying</q>
+		
+		<p>discount<del>50%</del><ins>40%</ins>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.8697229214663!2d91.83719031470609!3d22.358547446428574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad274609dda25f%3A0xd59761fea5a91d3b!2sCreative%20IT%20Institute%2C%20Chattogram%20Branch!5e0!3m2!1sen!2sbd!4v1645205928924!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+		
+		<iframe src=https://www.creativeitinstitute.com/></iframe>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/_ED2qcugekI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
